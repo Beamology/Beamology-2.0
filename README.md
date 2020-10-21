@@ -1,1 +1,1 @@
-# Beamology_1.0
+# Beamology-1.0
