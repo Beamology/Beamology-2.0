@@ -1,5 +1,5 @@
 # Beamology-2.0
-Quick selfie of the site. The unofficial launch date was 9.17. The IPO is targeting a $2.5bil valuation with NYSE/NASDAQ applications on record. UI courtesy of GoDaddy, charts and financial data by TradingView.
+Quick selfie of the site. The unofficial launch date was 9.17. The IPO is targeting a $2.5bil valuation with NYSE/NASDAQ applications on record. UI courtesy of https://trendyui.gitbook.io, charts and financial data by TradingView.
 
 Our flagship product, Beamology© Enterprise Solutions are fintech friendly plugins and extensions used by member clients to optimize trading and maximize returns.
 
