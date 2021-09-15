@@ -1,6 +1,8 @@
 # Beamology-2.0
 Quick selfie of the site. The unofficial launch date was 9.17. The IPO is targeting a $2.5bil valuation with NYSE/NASDAQ applications on record. UI courtesy of https://trendyui.gitbook.io, charts and financial data by TradingView.
 
+This application operates under FINRA regulations for financial institutions and uses data product subscriptions, extensions, licensing, packages, algorithms, tests and stylesheets maintained herein.  
+
 Our flagship product, Beamology© Enterprise Solutions are fintech friendly plugins and extensions used by member clients to optimize trading and maximize returns.
 
 The studio set is built specifically for NVIDIA V-Ray and benchmarks the raytracing technology of the industry's top render engines and game engines  such as Unreal Engine and Unity. Advertising and marketing are the studio's main revenue streams.
