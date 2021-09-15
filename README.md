@@ -7,7 +7,7 @@ Our flagship product, Beamology© Enterprise Solutions are fintech friendly plug
 
 The studio set is built specifically for NVIDIA V-Ray and benchmarks the raytracing technology of the industry's top render engines and game engines  such as Unreal Engine and Unity. Advertising and marketing are the studio's main revenue streams.
 
-The company's trading platform, Beamplan© is under technical negotiations for fiscal Q1-21. It offers free and commission based trades, investment club memberships and administrative services.
+The company's trading platform, Beamplan© is under technical negotiations for fiscal Q1-22. It offers free and commission based trades, investment club memberships and administrative services.
 
 The Semicom accelerator; Accelerator Sciences, Inc.© is our official empowerment campaign. It receives  commissions on its sanctioned trader and sponsored tourney onboarding platforms. 
 
